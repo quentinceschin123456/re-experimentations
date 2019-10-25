@@ -10,3 +10,9 @@ Le client veut  affichage d’un indicateur de santé de la maison sur la tempé
     * Le client veut mesurer le déplacement de l'air
 
 * 
+
+Dommaine:
+## environnement
+## consomation
+## voiture
+## logiciel
