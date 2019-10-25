@@ -1,7 +1,6 @@
-# Alfred - Majordome de Batman
+Alfred - Majordome de Batman
 
- <a id="nomAncre">L’idée est de créer un système qui viendra rendre les services suivants :
- </a>
+L’idée est de créer un système qui viendra rendre les services suivants :
 - Affichage d’un indicateur de santé de la maison. Cet indicateur doit être capable de combiner les informations provenant de la mesure de plusieurs grandeurs physiques:
   - Température
   - Humidité
@@ -49,9 +48,6 @@ Le projet se déroulera en groupe de 2 étudiants
 Livrables : 
 - Une présentation de votre modèle sur la dernière heure, en expliquant chacun d’entre eux et les choix de conception que vous avez fait. 
 - Le modèle (i.e., votre projet Eclipse) qui devra être envoyé par email avant le vendredi 8 décembre à minuit: benoit.combemale@irit.fr et jean-michel.bruel@irit.fr
-
-
-[text](#/id=nomAncre)
 
 Bon courage :)
 Benoit and Jean-Michel
